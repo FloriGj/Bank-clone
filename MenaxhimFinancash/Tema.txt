@@ -1,0 +1,4 @@
+Aplikacioni për menaxhimin e financave personale: 
+Zhvilloni një aplikacion për të ndihmuar njerëzit të monitorojnë 
+dhe të menaxhojnë financat e tyre personale, duke përfshirë buxhetin, 
+pagesat dhe investimet. - Perandoret

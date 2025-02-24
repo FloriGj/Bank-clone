@@ -1,0 +1,22 @@
+Crypto BitCoin 50000 78000.0 56.0
+/
+Crypto DogeCoin 1000 310.0 -69.0
+/
+Crypto Tether 100 12.0 -88.0
+admin 10
+/
+Crypto Ethereum 3000 4530.0 51.0
+/
+Crypto Litecoin 100 82.0 -18.0
+admin 10
+/
+Stocks YumChina 15000 27300.0 82.0
+/
+Stocks Polaris 5000 5700.0 14.0
+/
+Stocks ImperialBrands 20000 37400.0 87.0
+/
+Stocks Ambev 2500 3675.0 47.0
+/
+Stocks Apple 50000 55500.0 81.0
+/

@@ -1,0 +1,7 @@
+Igli 12345678 1000.0
+admin 12345678 1199000.0
+krista sp123456 1.988655101E9
+frenki 12345678 9.75309433E8
+Flori \gjiriti 0
+Florii Flori12345 0
+flori00010 flori1010 0
